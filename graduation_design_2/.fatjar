@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Nov 17 20:33:38 CST 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=graduation_design_2_fat.jar
+manifest.mergeall=true
+manifest.mainclass=page2.Firstpage
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
